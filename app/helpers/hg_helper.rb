@@ -1,0 +1,2 @@
+module HgHelper
+end
